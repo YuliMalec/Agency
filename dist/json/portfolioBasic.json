@@ -1,0 +1,94 @@
+{
+    "portfolio":[
+        {
+            "id":"Add",
+            "chapter":"Design",
+            "text":"Abstract",
+            "image":"img/portfolio/design/abstract.jpg"
+
+        },
+        {
+            "id":"Add",
+            "chapter":"Design",
+            "text":"Calc",
+            "image":"img/portfolio/design/calc.jpg" 
+        },
+        {
+            "id":"Add",
+            "chapter":"Design",
+            "text":"Abstract-music",
+            "image":"img/portfolio/design/abstract-music.jpg"
+        },
+        {
+            "id":"Add",
+            "chapter":"Design",
+            "text":"Colour",
+            "image":"img/portfolio/design/colour.jpg"
+        },
+        {
+            "id":"Add",
+            "chapter":"Design",
+            "text":"Mramour",
+            "image":"img/portfolio/design/mramor.jpg"
+        },
+        {
+            "id":"Add",
+            "chapter":"Branding",
+            "text":"HandP",
+            "image":"img/portfolio/branding/handP.jpg"
+        },
+        {
+              
+            "id":"Add",
+            "chapter":"Branding",
+            "text":"Sport",
+            "image":"img/portfolio/branding/sport.jpg"
+        },
+        {
+            "id":"Add",
+            "chapter":"Branding",
+            "text":"Syns-Slider",
+            "image":"img/portfolio/branding/Sync-Slider.jpg"
+        },
+        {
+            "id":"Add",
+            "chapter":"Illustration",
+            "text":"Illustration",
+            "image":"img/portfolio/illustration/illustration.jpg"
+        },
+        {
+            "id":"Add",
+            "chapter":"Illustration",
+            "text":"DDDone",
+            "image":"img/portfolio/illustration/done.jpg"
+        },
+        {
+            "id":"Add",
+            "chapter":"Design",
+            "text":"SOFA",
+            "image":"img/portfolio/design/sofa.jpg"
+        },
+        {
+            "id":"Add",
+            "chapter":"Illustration",
+            "text":"Work Media",
+            "image":"img/portfolio/illustration/workMedia.jpg"
+        },
+        {
+            "id":"Add",
+            "chapter":"Branding",
+            "text":"KeyBoard",
+            "image":"img/portfolio/branding/keyboard.jpg"
+        },
+        {
+            "id":"Add",
+            "chapter":"Motion",
+            "text":"DDDone",
+            "image":"img/portfolio/motion/architect.jpg"
+        }
+       
+       
+    ]
+    
+    
+}

@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?1s9527');
+  src: url('../fonts/icomoon.woff?1s9527') format('woff');
+   
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"]::before, [class*=" icon-"]::before {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Down:before {
+  content: "\e900";
+}
+.icon-Email:before {
+  content: "\e901";
+}
+.icon-facebook:before {
+  content: "\e902";
+  position: absolute;
+  top: 30%;
+  left: 17px;
+}
+.icon-gift:before {
+  content: "\e903";
+}
+.icon-Inc:before {
+  content: "\e904";
+}
+.icon-instagram:before {
+  content: "\e905";
+  position: absolute;
+  top: 30%;
+  left: 17px;
+}
+.icon-Minus:before {
+  content: "\e906";
+}
+.icon-Path:before {
+  content: "\e907";
+}
+.icon-Plus:before {
+  content: "\e908";
+}
+.icon-Polygon-1:before {
+  
+  content: "\e909";
+}
+.icon-Polygon:before {
+  content: "\e90a";
+}
+.icon-Shape-1:before {
+  content: "\e90b";
+}
+.icon-Shape:before {
+  content: "\e90c";
+}
+.icon-Star:before {
+  content: "\e90d";
+}
+.icon-twitter:before {
+  content: "\e90e";
+  position: absolute;
+  top: 30%;
+  left: 17px;
+}
+
+
+
+
+

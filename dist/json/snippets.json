@@ -1,0 +1,14 @@
+{
+    "html":[
+        {
+            "Swiper": {
+                "scope": "html",
+                "prefix": "swiper",
+                "body": [
+                    "<div class=\"${1:имя-блока}__slider swiper\">\n\t<div class=\"${1:ім'я-блоку}__wrapper swiper-wrapper\">\n\t\t<div class=\"${1:ім'я-блоку}__slide swiper-slide\"></div>\n\t</div>\n</div>"
+                ],
+                "description": "Додає базовий HTML-код слайдера Swiper"
+            }
+        }
+    ]
+}

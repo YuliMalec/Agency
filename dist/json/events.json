@@ -1,0 +1,28 @@
+{
+    "events":[
+        {
+            "id": 4,
+            "months": "October 2021",
+            "hours": "10:00 am – 2:00 pm",
+            "title": "The F design events",
+            "text": "Provide your business with a variety of digital solutions to promote."
+            
+        },
+        {
+            "id": 21,
+            "months": "September 2021",
+            "hours": "7:00 am – 16:00 pm",
+            "title": "Interior Design",
+            "text": "Provide your business with a variety of digital solutions to promote."
+            
+        },
+        {
+            "id": 9,
+            "months": "May 2021",
+            "hours": "12:00 am – 21:00 pm",
+            "title": "Design Weeks",
+            "text": "Provide your business with a variety of digital solutions to promote."
+            
+        }
+    ]
+}

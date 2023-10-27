@@ -1,0 +1,42 @@
+{
+    "portfolio":[
+    {
+        "id":"Add",
+        "chapter":"Design",
+        "text":"Abstract",
+        "image":"img/portfolio/design/abstract.jpg"
+
+    },
+    {
+        "id":"Add",
+        "chapter":"Design",
+        "text":"Calc",
+        "image":"img/portfolio/design/calc.jpg" 
+    },
+    {
+        "id":"Add",
+        "chapter":"Design",
+        "text":"Abstract-music",
+        "image":"img/portfolio/design/abstract-music.jpg"
+    },
+    {
+        "id":"Add",
+        "chapter":"Design",
+        "text":"Colour",
+        "image":"img/portfolio/design/colour.jpg"
+    },
+    {
+        "id":"Add",
+        "chapter":"Design",
+        "text":"Mramour",
+        "image":"img/portfolio/design/mramor.jpg"
+    },
+    {
+        "id":"Add",
+        "chapter":"Design",
+        "text":"SOFA",
+        "image":"img/portfolio/design/sofa.jpg"
+    }
+
+] 
+}
